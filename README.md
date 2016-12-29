@@ -2,5 +2,4 @@
 general notes
 
 Hi there!
-Mal sehen ob das gut funktioniert
-LG
+Hab eine brachn zugefügt.
